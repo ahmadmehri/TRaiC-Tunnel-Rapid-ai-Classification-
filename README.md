@@ -89,7 +89,7 @@ A comprehensive MATLAB-based software suite for automated 3D tunnel face analysi
 
 ## 📦 Download Options
 
-- **🎯 End Users**: Download the ready-to-use .exe installer from [Releases]([../../releases](https://github.com/ahmadmehri/Smart-and-Rapid-Digital-Tunnel-Face-Mapping-/blob/main/TunnelMappingSuit_web_installer.exe)) 
+- **🎯 End Users**: Download the ready-to-use .exe installer from [Releases](https://github.com/ahmadmehri/Smart-and-Rapid-Digital-Tunnel-Face-Mapping-/blob/main/TunnelMappingSuit_web_installer.exe)
 - **👨‍💻 Developers**: Clone the source code for customization and development
 
 ## 💡 Note for First-Time Users
