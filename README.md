@@ -1,7 +1,10 @@
 # Smart-and-Rapid-Digital-Tunnel-Face-Mapping-
 Smart and Rapid Digital Tunnel Face Mapping using 360 Spherical Photos, AI-Driven Discontinuity Analysis, and RAG-LLM Powered Report Generation
+![Pano4Test](https://github.com/user-attachments/assets/1aef053a-a906-40fa-a978-95957b37929f)
+
 
 A comprehensive MATLAB-based software suite for automated 3D tunnel face analysis featuring 360° panoramic processing, AI-powered joint detection, LLM geological descriptions, and RAG-enhanced report generation. This tool provides end-to-end processing from panoramic image capture to intelligent geological assessment.
+![image](https://github.com/user-attachments/assets/652408a9-c786-4663-a4d4-e0087fca3772)
 
 ## 🚇 Features
 
