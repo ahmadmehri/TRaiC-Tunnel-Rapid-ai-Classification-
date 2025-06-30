@@ -51,18 +51,9 @@ A comprehensive MATLAB-based software suite for automated 3D tunnel face analysi
   - 2GB free disk space for installation
   - Graphics card with OpenGL support for 3D visualization
 - **Installation Steps:**
-  1. Download the installer from the latest release
-  2. Run the .exe file as administrator
-  3. Follow the installation wizard (MATLAB Runtime will be automatically installed if needed)
-  4. Launch the application from desktop shortcut or Start menu
-
-### For Developers (MATLAB Source Code)
-- MATLAB R2020b or later
-- Image Processing Toolbox
-- Computer Vision Toolbox
-- Statistics and Machine Learning Toolbox
-- Additional dependencies for AI features (specified in documentation)
-- Clone this repository and run `TunnelMappingSuit.m` in MATLAB
+  1. Run the TunnelMappingSuit_web_installer.exe file as administrator
+  2. Follow the installation wizard (MATLAB Runtime will be automatically installed if needed)
+  3. Launch the application from desktop shortcut or Start menu
 
 ## 📈 Workflow
 
@@ -84,12 +75,6 @@ A comprehensive MATLAB-based software suite for automated 3D tunnel face analysi
 3. Select your project output directory
 4. Follow the workflow buttons from left to right, top to bottom
 5. Each completed step will turn green to track your progress
-
-### Using MATLAB Source Code
-1. Clone this repository: `git clone https://github.com/yourusername/Rapid-3D-Digital-Tunnel-Face-Mapping-Suite.git`
-2. Open MATLAB and navigate to the project folder
-3. Run `TunnelMappingSuit.m` to launch the GUI
-4. Ensure all required toolboxes are installed
 
 ## 📦 Download Options
 
