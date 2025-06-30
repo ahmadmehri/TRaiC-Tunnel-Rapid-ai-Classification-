@@ -28,6 +28,10 @@ A comprehensive MATLAB-based software suite for automated 3D tunnel face analysi
 - Multi-modal AI integration for enhanced geological interpretation
 - Professional report generation with embedded visualizations
 
+![mq2](https://github.com/user-attachments/assets/ff48474e-3963-485f-9236-872b25af5288)
+![mq3](https://github.com/user-attachments/assets/57c8337f-4a1b-4a17-99eb-f595f1086a58)
+
+
 ## 📊 Applications
 
 - Tunnel engineering and construction monitoring
