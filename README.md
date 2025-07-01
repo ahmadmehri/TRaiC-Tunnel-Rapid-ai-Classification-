@@ -16,8 +16,10 @@ A comprehensive MATLAB-based software suite for automated 3D tunnel face analysi
 - **3D Digital Twin Creation**: Point cloud generation and 3D tunnel model reconstruction
 - **Trace Network Analysis**: Joint set identification, spacing analysis, and statistical evaluation
 - **AI-Assisted Face Annotation**: Intelligent geological feature identification and description
+  **Note:** you need your own OpenAI API Key to enable you to use the embedded ChatGPT
 - **RMR Scoring System**: Automated Rock Mass Rating calculation based on joint characteristics
 - **AI Consulting Reports**: RAG-LLM powered geological assessment reports with multi-modal analysis and Word document export
+  **Important Note:** you need your own OpenAI API Key to enable you to use the embedded RAG-ChatGPT 
 
 ## 🔧 Technical Capabilities
 
