@@ -19,7 +19,10 @@ A comprehensive MATLAB-based software suite for automated 3D tunnel face analysi
   **Note:** you need your own OpenAI API Key to enable you to use the embedded ChatGPT
 - **RMR Scoring System**: Automated Rock Mass Rating calculation based on joint characteristics
 - **AI Consulting Reports**: RAG-LLM powered geological assessment reports with multi-modal analysis and Word document export
-  **Important Note:** you need your own OpenAI API Key to enable you to use the embedded RAG-ChatGPT 
+  **Important Note:** you need your own OpenAI API Key to enable you to use the embedded RAG-ChatGPT
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hJ16xQeTYZ4?si=ExxqDJIlVTAdvHai" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
 
 ## 🔧 Technical Capabilities
 
