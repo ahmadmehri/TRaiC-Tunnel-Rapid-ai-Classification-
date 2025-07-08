@@ -84,5 +84,5 @@ A comprehensive MATLAB-based software suite for automated 3D tunnel face analysi
 - **👨‍💻 Developers**: Clone the source code for customization and development
 
 ## 💡 Note for First-Time Users
-
+**To receive the last version or the source codes for research, please contact developer via: ahmad.mehri@yahoo.com**
 The standalone executable includes MATLAB Runtime, making it a complete solution that doesn't require MATLAB installation. The first launch may take a few minutes as the runtime initializes.
