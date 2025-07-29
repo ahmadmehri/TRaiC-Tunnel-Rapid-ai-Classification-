@@ -29,7 +29,7 @@ A comprehensive MATLAB-based software suite for automated 3D tunnel face analysi
 
 [![Watch the video](https://img.youtube.com/vi/hJ16xQeTYZ4/0.jpg)](https://youtu.be/hJ16xQeTYZ4)
   
-<img src="https://github.com/user-attachments/assets/3e3e845b-648f-4904-8a41-73108401d104" width="400" alt="arranged_cubemap">
+<img src="https://github.com/user-attachments/assets/3e3e845b-648f-4904-8a41-73108401d104" width="500" alt="arranged_cubemap">
 
 ## 🔧 Technical Capabilities
 
