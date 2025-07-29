@@ -25,7 +25,7 @@ A comprehensive MATLAB-based software suite for automated 3D tunnel face analysi
 - **AI Consulting Reports**: RAG-LLM powered geological assessment reports with multi-modal analysis and Word document export
   **Important Note:** you need your own OpenAI API Key to enable you to use the embedded RAG-ChatGPT
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/hJ16xQeTYZ4?si=ExxqDJIlVTAdvHai" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/hJ16xQeTYZ4/0.jpg)](https://youtu.be/hJ16xQeTYZ4)
   
 ![arranged_cubemap](https://github.com/user-attachments/assets/3e3e845b-648f-4904-8a41-73108401d104)
 
