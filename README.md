@@ -1,3 +1,6 @@
+
+<img width="124" height="124" alt="LooGoo" src="https://github.com/user-attachments/assets/05aeb7fb-51d3-4985-a2b8-fdb9c1645369" />
+
 # Smart-and-Rapid-Digital-Tunnel-Face-Mapping
 Smart and Rapid Digital Tunnel Face Mapping using 360 Spherical Photos, AI-Driven Discontinuity Analysis, and RAG-LLM Powered Report Generation
 ![Pano4Test](https://github.com/user-attachments/assets/1aef053a-a906-40fa-a978-95957b37929f)
