@@ -1,4 +1,4 @@
-<img width="124" height="124" alt="LooGoo" src="https://github.com/user-attachments/assets/05aeb7fb-51d3-4985-a2b8-fdb9c1645369" />
+<img width="124" height="124" alt="LooGoo" src="https://github.com/user-attachments/assets/05aeb7fb-51d3-4985-a2b8-fdb9c1645369" /> << Introductino Video >>
 
 
 [![Watch the video](https://img.youtube.com/vi/Jy-wP6f4hWA/0.jpg)](https://youtu.be/Jy-wP6f4hWA)
