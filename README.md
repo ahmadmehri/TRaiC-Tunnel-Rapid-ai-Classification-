@@ -8,7 +8,9 @@ Smart and Rapid Digital Tunnel Face Mapping using 360 Spherical Photos, AI-Drive
 **An Open-Source Code for 360° Tunnel Face Mapping, Discontinuity Analysis, and RAG-LLM Powered Geo-engineering Reporting**
 
 A comprehensive MATLAB-based software suite for automated 3D tunnel face analysis featuring 360° panoramic processing, AI-powered joint detection, LLM geological descriptions, and RAG-enhanced report generation. This tool provides end-to-end processing from panoramic image capture to intelligent geological assessment.
-![image](https://github.com/user-attachments/assets/652408a9-c786-4663-a4d4-e0087fca3772)
+
+![Screenshot 2025-07-29 110258](https://github.com/user-attachments/assets/b2de13fd-d882-43c0-8c86-6a232ba323de)
+
 
 ## 🚇 Features
 
