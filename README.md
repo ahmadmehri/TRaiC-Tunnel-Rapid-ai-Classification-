@@ -90,7 +90,7 @@ A comprehensive MATLAB-based software suite for automated 3D tunnel face analysi
 
 ## 📦 Download Options
 
-- **🎯 End Users**: Download the ready-to-use .exe installer from [Releases](https://github.com/ahmadmehri/TRaiC-Tunnel-Rapid-ai-Classification-/blob/main/TRaiC_Installer_web.exe))
+- **🎯 End Users**: Download the ready-to-use .exe installer from [Releases](https://github.com/ahmadmehri/TRaiC-Tunnel-Rapid-ai-Classification-/blob/main/TRaiC_Installer_web.exe)
 - **👨‍💻 Developers**: Clone the source code for customization and development
 - The following MATLAB toolboxes are required to run the system:
     {Computer Vision Toolbox}
